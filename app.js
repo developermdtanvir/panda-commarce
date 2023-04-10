@@ -1,5 +1,9 @@
 const backpackContainer = document.getElementById('backpack-items');
-const showContainer = document.getElementById('show-items')
+const showContainer = document.getElementById('show-items');
+
+// backpack container data 
+
+
 fetch('backpack.json')
     .then(res => res.json())
     .then(data => {
@@ -24,6 +28,8 @@ fetch('backpack.json')
         })
     });
 
+
+// show container data 
 
 fetch('show.json')
     .then(res => res.json())
