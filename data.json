@@ -1,0 +1,26 @@
+{
+    "backpacks": [
+      {
+        "id": 1,
+        "title": "JanSport Big Student Backpack",
+        "description": "The JanSport Big Student Backpack is perfect for students who need plenty of room for their books and supplies. It features two large main compartments, a front utility pocket with organizer, and a side water bottle pocket.",
+        "price": 44.99,
+        "image": "./images/bags/bag-1.png"
+      },
+      {
+        "id": 2,
+        "title": "The North Face Jester Backpack",
+        "description": "The North Face Jester Backpack is a versatile backpack that's perfect for commuting, school, or travel. It features a large main compartment, a front pocket with organizer, and a padded laptop sleeve that fits most 15-inch laptops.",
+        "price": 69.00,
+        "image": "./images/bags/bag-2.png"
+      },
+      {
+        "id": 3,
+        "title": "Herschel Supply Co. Settlement Backpack",
+        "description": "The Herschel Supply Co. Settlement Backpack is a classic backpack with modern functionality. It features a spacious main compartment, a front pocket with key clip, and a 15-inch laptop sleeve.",
+        "price": 59.99,
+        "image": "./images/bags/bag-3.png"
+      }
+    ]
+  }
+  
